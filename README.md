@@ -2,7 +2,7 @@
 
 Zhihan Xiao, Lin Liu†\*, Yixin Gao, Xiaopeng Zhang, Haoxuan Che, Songping Mai\*, Qi Tian   
 † Project Leader, \* Corresponding Authors  
-📄 **[Project Page](https://cz-5f.github.io/LoVoRA.github.io)**  📚 **ArXiv (Coming Soon)**  💾 **[Dataset](https://huggingface.co/datasets/LoVoRA)**  🚧 **Code Coming Soon**
+📄 **[Project Page](https://cz-5f.github.io/LoVoRA.github.io)**  📚 **[ArXiv](https://arxiv.org/abs/2512.02933)**  💾 **[Dataset](https://huggingface.co/datasets/LoVoRA)**  🚧 **Code Coming Soon**
 
 ---
 
