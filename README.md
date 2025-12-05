@@ -56,6 +56,13 @@ Overview of LoVoRA dataset construction pipeline. Starting from high-quality ima
 ![Framework](static/images/framework.png)
 Overview of the proposed LoVoRA framework. The input video is encoded by a spatio-temporal VAE to produce latents. Encoded latents are channel-concatenated with noisy target latents and processed by a DiT backbone to predict the rectified-flow velocity field. A Diffusion Mask Predictor reads selected DiT token features and predicts a spatio-temporal diff mask used during training.
 
+## 🛠️ Open-Source Plan
+- ✅ Project Page  
+- ✅ ArXiv  
+- ⬜ LoVoRA Dataset
+- ⬜ LoVoRA Inference Code
+- ⬜ LoVoRA Weights
+- ⬜ LoVoRA Dataset Pipeline
 
 
 
