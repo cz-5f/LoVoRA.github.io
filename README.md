@@ -40,7 +40,7 @@ LoVoRA achieves **state-of-the-art VLM evaluation results** based on Prompt Foll
 | Ditto          | **4.417** | 4.733 | Depth-guided generation                       |
 | **Ours**       | 4.375  | **4.850** | **Optical-flow-based mask propagation**       |
 
-📦 **Dataset:** https://huggingface.co/datasets/LoVoRA
+📦  [**Dataset:**](https://huggingface.co/datasets/cz-5f/LoVoRA)
 
 ---
 
