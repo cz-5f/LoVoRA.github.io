@@ -2,7 +2,7 @@
 
 Zhihan Xiao, Lin Liu†\*, Yixin Gao, Xiaopeng Zhang, Haoxuan Che, Songping Mai\*, Qi Tian   
 † Project Leader, \* Corresponding Authors  
-📄 **[Project Page](https://cz-5f.github.io/LoVoRA.github.io)**  📚 **[ArXiv](https://arxiv.org/abs/2512.02933)**  💾 **[Dataset](https://huggingface.co/datasets/cz-5f/LoVoRA)(Coming Soon)**  🚧 **Code(Coming Soon)**
+📄 **[Project Page](https://cz-5f.github.io/LoVoRA.github.io)**  📚 **[ArXiv](https://arxiv.org/abs/2512.02933)**  💾 **[Dataset](https://huggingface.co/datasets/cz-5f/LoVoRA)**  🚧 **Code(Coming Soon)**
 
 ---
 
@@ -58,7 +58,7 @@ Overview of the proposed LoVoRA framework. The input video is encoded by a spati
 ## 🛠️ Open-Source Plan
 - ✅ Project Page  
 - ✅ ArXiv  
-- ⬜ LoVoRA Dataset
+- ✅ LoVoRA Dataset
 - ⬜ LoVoRA Inference Code
 - ⬜ LoVoRA Weights
 - ⬜ LoVoRA Dataset Pipeline
