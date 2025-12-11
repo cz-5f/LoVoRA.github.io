@@ -63,7 +63,16 @@ Overview of the proposed LoVoRA framework. The input video is encoded by a spati
 - ⬜ LoVoRA Weights
 - ⬜ LoVoRA Dataset Pipeline
 
-
+## 📑 Citation
+@misc{xiao2025lovoratextguidedmaskfreevideo,
+      title={LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization}, 
+      author={Zhihan Xiao and Lin Liu and Yixin Gao and Xiaopeng Zhang and Haoxuan Che and Songping Mai and Qi Tian},
+      year={2025},
+      eprint={2512.02933},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.02933}, 
+}
 
 
 
