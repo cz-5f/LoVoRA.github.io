@@ -33,7 +33,7 @@ LoVoRA achieves **state-of-the-art VLM evaluation results** based on Prompt Foll
 
 | Dataset        | PF     | EQ     | Generation Basis                              |
 |----------------|--------|--------|-----------------------------------------------|
-| InsV2V         | --     | --     | Prompt-to-Prompt adaptation                   |
+| InsV2V         | 3.361  | 3.798  | Prompt-to-Prompt adaptation                   |
 | ICVE-SFT       | --     | --     | Object removal + inpainting                   |
 | Senorita-2M    | 3.533  | 3.883  | Object removal + inpainting                   |
 | InsViE-1M      | 3.133  | 3.667  | Video inversion + reconstruction              |
